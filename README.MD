@@ -58,9 +58,8 @@ public class MainActivity extends AppCompatActivity{
       }
    }
 ```
-### server sample is bin/simpleServ  [hiMongo](https://github.com/hiuric/hiMongo)
-click this [API](https://hiuric.github.io/hiMongo/hi/db/hiMonWorkerSample.html) to read sample server document.
-
+### 通信機は [[API](https://hiuric.github.io/hiMongo/hi/db/hiMonWorkerSample.html) のhiMonWorkerSample.COMを使いました。
+### サーバプログラムは [hiMongo](https://github.com/hiuric/hiMongo) のbin/simpleServです
 ### Androidの画面は次の様になります。
 ![sample0](./AndroidDisp_0.png)
 
