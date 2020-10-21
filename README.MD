@@ -58,9 +58,10 @@ public class MainActivity extends AppCompatActivity{
       }
    }
 ```
-### 通信機は [[API](https://hiuric.github.io/hiMongo/hi/db/hiMonWorkerSample.html) のhiMonWorkerSample.COMを使いました。
+### 通信機は [hiMonWorkerSample](https://hiuric.github.io/hiMongo/hi/db/hiMonWorkerSample.html) のhiMonWorkerSample.COMを使いました。
 ### サーバプログラムは [hiMongo](https://github.com/hiuric/hiMongo) のbin/simpleServです
 ### Androidの画面は次の様になります。
 ![sample0](./AndroidDisp_0.png)
-
+### セキュリティーは通信機に任されます。今回使用しているのはあくまでサンプル用であり運用に耐えるものではありません。
+通信機は１関数のみのシンプルなinterfaceとなっています。 [hiStringCOM](https://hiuric.github.io/hiMongo/hi/db/hiStringCOM.html) 参照
 
