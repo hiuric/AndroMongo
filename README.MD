@@ -4,7 +4,7 @@
 click [this](https://hiuric.github.io/hiMongo/) to see [API](https://hiuric.github.io/hiMongo/)-javadoc.
 ### sample APP screen is as below
 ![sample0](./AndroidDisp_0.png)
-### APP cord for Android
+### APP code for Android
 ```
 package hi.db.andromongo;
 import androidx.appcompat.app.AppCompatActivity;
