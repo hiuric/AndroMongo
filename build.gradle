@@ -11,7 +11,7 @@ buildscript {
         // in the individual module build.gradle files
         classpath  files('libs/hiNote_3_10.jar')
         classpath  files('libs/mongo-java-driver-3.12.5.jar')
-        classpath  files('libs/hiMongo_0_08.jar')
+        classpath  files('libs/hiMongo_0_11.jar')
     }
 }
 
